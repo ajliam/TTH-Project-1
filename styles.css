@@ -11,7 +11,7 @@ body {
   color: #222;
   background: #f7f5f0;
 }
-/* Link Styles */
+/* Link Styles.......................................... */
 
 a {
   text-decoration: none;
@@ -21,7 +21,7 @@ a:hover {
   color: #6633ff;
 }
 
-/* Section Styles */
+/* Section Styles.......................................... */
 
 .main-nav {
   width: 100%;
@@ -88,6 +88,8 @@ header .profile-image:hover {
   background-color: #222;
   color: yellow;
 }
+
+/* background.......................................... */
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
@@ -100,11 +102,6 @@ header .profile-image:hover {
 }
 .card:hover {
   border-color: #ff99ff;
-}
-
-.code-img {
-  width: 25%;
-  margin-left: 0%;
 }
 
 ul.skills {
@@ -124,6 +121,13 @@ ul.skills {
 .skills li:nth-child(odd) {
   background: #0399ff;
 }
+
+.code-img {
+  width: 25%;
+  margin-left: 40%;
+}
+
+/* footer section..................................... */
 
 footer {
   width: 100%;
@@ -170,7 +174,7 @@ a.social:hover {
   clear: both;
 }
 
-/* Styles for larger screens */
+/* Styles for larger screens.......................................... */
 @media screen and (min-width: 720px) {
   
   .flex {
