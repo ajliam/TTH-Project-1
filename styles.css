@@ -5,6 +5,11 @@ body {
   font-family: 'Merriweather', serif;
 }
 
+#profile-picture {
+    height: 400px;
+    width: 400px;
+}
+
 h1 {
   color: #66BFBF;
   font-size: 5.625rem;
